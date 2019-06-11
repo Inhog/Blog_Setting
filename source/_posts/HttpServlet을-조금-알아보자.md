@@ -1,8 +1,10 @@
 ---
 title: HttpServlet을 조금 알아보자
 date: 2019-06-11 14:04:26
-tags: HttpServlet, Servlet
-thumbnailImage: 
+tags:
+- HttpServlet
+- Servlet
+thumbnailImage: profile.jpg
 thumbnailImagePosition: right
 ---
 ## HttpServlet 파헤쳐보자
