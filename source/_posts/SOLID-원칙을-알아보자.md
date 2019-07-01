@@ -26,3 +26,15 @@ thunnail : posts/http.png
 - **LSP** ( Liskov substitution principle ) - 리스코브 치환 원칙
 - **ISP** ( Interface segregation principle ) - 인터페이스 분리 원칙
 - **DIP** ( Dependency inversion principle ) - 의존 역전 원칙
+
+
+#####1.SRP
+객체는 오직 하나의 책임을 가져야한다.
+
+먼저 아래의 소스예제를 보자.
+
+쏘오쓰
+- 하나의 클래스안에, self 안에 인증이랑 다른 기능이랑 여러가ㄴ지 넣은 스파게티 코드 같은 느낌적인 느낌느낌
+
+
+해당 클래스의 경우
