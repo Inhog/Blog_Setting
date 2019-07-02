@@ -6,8 +6,8 @@ category :
 	- Keywords
 	- web-development
 	- OOP
-summary : SOLID(1)
-thunnail : posts/http.png
+thumbnailImage : 
+thumbnailImagePosition: right
 ---
 
 
