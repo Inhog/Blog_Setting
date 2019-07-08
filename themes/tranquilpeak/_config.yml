@@ -187,14 +187,14 @@ tag_pagination: true
 # ---------------
 
 # Your Disqus shortname
-disqus_shortname:
+disqus_shortname: inhog
 # Your Gitment information
 # Read https://github.com/imsun/gitment#get-started to setup Gitment
 gitment:
     # Switch
     enable: false
     # Your Github ID (Github username):
-    github_id: 
+    github_id:
     # The repo to store comments:
     repo:
     # Your client ID:
