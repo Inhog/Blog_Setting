@@ -1,5 +1,6 @@
 ---
 title: SOLID
+author : Ho9
 date: 2019-06-28 11:15:23
 tags:
 - SOLID
