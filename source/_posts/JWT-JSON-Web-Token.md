@@ -17,9 +17,12 @@ tags:
 
 JSON Web Token(JWT)은 웹표준(RFC 7519)구현체로서 JSON 객체를 사용하는 클레임 기반 토큰의 대표적인 예이다.
 
+JWT는 헤더(header), 페이로드(payload), 서명(signature) 세 가지로 나눠져 있으며, 아래와 같은 형태로 구성되어 있다.
 
 
+`xxxxx.yyyyy.zzzzz`
 
+구분자 `.` 으로 구분된 세 부분으로 구성되어있다.
 
 ####참고
 
