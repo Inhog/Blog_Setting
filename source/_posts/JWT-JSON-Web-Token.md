@@ -37,14 +37,14 @@ JWT는 자가수용적이므로, 두 개체 사이에어 손쉽게 전달 될 �
 
 JWT는 헤더(header), 페이로드(payload), 서명(signature) 세 가지로 나눠져 있으며, 아래와 같은 형태로 구성되어 있다.
 
-<img src="./JWT-Java-Web-Token/jwt.png"/>
+<img src="jwt.png"/>
 
 `aaaaaa.bbbbbb.cccccc`
 
 구분자 `.` 으로 구분된 세 부분으로 구성되어있다.
 각 부분은 **base64** 로 인코딩 되어있다.
 
-<img src="./JWT-Java-Web-Token/JWT예.png"/>
+<img src="JWT예.png"/>
 
 #### Header
 헤더에는 typ와 alg 두 가지 정보로 구성되어있다.
