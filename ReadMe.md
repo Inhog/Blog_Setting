@@ -1,6 +1,8 @@
 # Clone 후 세팅
 
-### npm, git 이 설치되었다는 가정하에 아래의 내용을 수행할것.
+### node.js (npm), git 이 설치되었다는 가정하에 아래의 내용을 수행할것.
+
+####아래 명령어는 git bash에서 수행
 
 `$ npm install -g hexo-cli`
 
